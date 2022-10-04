@@ -10,8 +10,7 @@
 🎓 &nbsp;A recent Computer Science graduate from Monash University Malaysia, specialized in Data Science.\
 ✍️ &nbsp;Throughout my time in university, I have gained practical experiences in data analysis, machine learning and statistical modelling through projects using programming tools such as SQL, Python and R.\
 💡  &nbsp;I enjoy working with numbers to solve problems and taking up new challenges in this field.\
-🌱&nbsp; Keeping an open mind is crucial for me to learn new skills a
-I believe keeping an open mind is crucial for us, in order to learn new skills from anyone we have encountered throughout our journey.
+🌱&nbsp; I believe keeping an open mind is crucial for us to develop and grow as an individual throughout our journey. 
 
 Ultimately, it is really exciting to see how data science can be applied to various industries and improves the lives of others across the world due to its capabilities :)
 

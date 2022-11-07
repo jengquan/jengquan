@@ -149,14 +149,14 @@ Ultimately, it is really exciting to see how data science can be applied to vari
 <br />
  
   
-#### Favourite Quote 
+#### Favourite Quote of the Month
 
 <blockquote> 
   Choose where your attention goes, <br />
   because that's where your energy flows
 </blockquote>
 
-#### Recommended reads by me :
+#### Personal favorite reads: (bookworm here)
 
 -   _The Daily Stoic_ by Ryan Holiday.
 -   _The Power of Habit_ by Charles Duhigg.

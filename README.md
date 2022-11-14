@@ -13,6 +13,15 @@
 - Strongly believes in keeping an **open mind** throughout our lives in order for us to develop and grow as an individual. 
 - Ultimately, it is really exciting to see how data science can be applied to various industries and improves the lives of others across the world due to its capabilities :)
 
+## Projects
+  
+|Project|Tools |Description|
+|----------|------------|------------|
+|**[SQL Case Studies](https://github.com/jengquan/SQL-Case-Studies)**|<ul><li>PostgreSQL| Analyzing and solving various business problems using SQL
+|**[Factors Contributing to Happiness Score](https://github.com/jengquan/Factors-contributing-to-Happiness-Score)**|<ul><li>R</li><li>Excel</li><li>HTML</li>| Identifying factors of Happiness Score from different perspective
+|**[Customer Purchase Behaviour Prediction](https://github.com/jengquan/Customer-Purchase-Behaviour-Prediction)**| <ul><li>R</li><li>Excel</li>| Predicting customer purchase behavior in e-commerce platform
+
+
 ## Tech stack   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 ### Programming languages 
@@ -121,13 +130,6 @@
  
 <br />
 
-## Projects
-  
-|Project|Tools |Description|
-|----------|------------|------------|
-|**[SQL Case Studies](https://github.com/jengquan/SQL-Case-Studies)**|<ul><li>PostgreSQL| Analyzing and solving various business problems using SQL
-|**[Factors Contributing to Happiness Score](https://github.com/jengquan/Factors-contributing-to-Happiness-Score)**|<ul><li>R</li><li>Excel</li><li>HTML</li>| Identifying factors of Happiness Score from different perspective
-|**[Customer Purchase Behaviour Prediction](https://github.com/jengquan/Customer-Purchase-Behaviour-Prediction)**| <ul><li>R</li><li>Excel</li>| Predicting customer purchase behavior in e-commerce platform
 
 
 

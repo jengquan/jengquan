@@ -5,14 +5,13 @@
 </p>
 
 
-### 👨🏻‍💻 &nbsp;About Me
+## About Me
 
-🎓 &nbsp;A recent Computer Science graduate from Monash University Malaysia, specialized in Data Science.\
-✍️ &nbsp;Throughout my time in university, I have gained practical experiences in data analysis, machine learning and statistical modelling through projects using programming tools such as SQL, Python and R.\
-💡  &nbsp;I enjoy working with numbers to solve problems and taking up new challenges in this field.\
-🌱&nbsp; I believe keeping an open mind is crucial for us to develop and grow as an individual throughout our journey. 
-
-Ultimately, it is really exciting to see how data science can be applied to various industries and improves the lives of others across the world due to its capabilities :)
+- A recent **Computer Science** graduate from Monash University Malaysia, specialized in **Data Science**.
+- Throughout my time in university, I have gained practical experiences in **data analysis**, machine learning and statistical modelling through projects using programming tools such as **SQL, Python and R**.
+- Enjoy **working with numbers** to solve problems and taking up new challenges in this field.
+- Strongly believes in keeping an **open mind** throughout our lives in order for us to develop and grow as an individual. 
+- Ultimately, it is really exciting to see how data science can be applied to various industries and improves the lives of others across the world due to its capabilities :)
 
 ## Tech stack   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
@@ -122,18 +121,20 @@ Ultimately, it is really exciting to see how data science can be applied to vari
  
 <br />
 
-<details>
-  <summary> Latest projects completed ✅ </summary>
+## Projects
+  
+|Project|Tools |Description|
+|----------|------------|------------|
+|**[SQL Case Studies](https://github.com/jengquan/SQL-Case-Studies)**|<ul><li>PostgreSQL| Analyzing and solving various business problems using SQL
+|**[Factors Contributing to Happiness Score](https://github.com/jengquan/Factors-contributing-to-Happiness-Score)**|<ul><li>R</li><li>Excel</li><li>HTML</li>| Identifying factors of Happiness Score from different perspective
+|**[Customer Purchase Behaviour Prediction](https://github.com/jengquan/Customer-Purchase-Behaviour-Prediction)**| <ul><li>R</li><li>Excel</li>| Predicting customer purchase behavior in e-commerce platform
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jengquan&repo=Factors-contributing-to-Happiness-Score&theme=github_dark)](https://github.com/jengquan/Factors-contributing-to-Happiness-Score)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jengquan&repo=Customer-Purchase-Behaviour-Prediction&theme=github_dark)](https://github.com/jengquan/Customer-Purchase-Behaviour-Prediction)
-</details> 
+
 
  
 <br />
-  
 <details>
-  <summary> List of my online certificates 📜  </summary>
+  <summary> Online certificates completed 📜  </summary>
   <ul>
     <br>
     <li><a href="https://github.com/jengquan/Certificates/blob/main/Data%20Scientist%20with%20Python%20track.pdf" target="_blank" > Data Scientist with Python track </a></li>
@@ -144,8 +145,6 @@ Ultimately, it is really exciting to see how data science can be applied to vari
 	  
   </ul>
 </details>
-
-
 <br />
  
   
@@ -153,9 +152,11 @@ Ultimately, it is really exciting to see how data science can be applied to vari
 
 <blockquote> 
   Choose where your attention goes, <br />
-  because that's where your energy flows
+  Because that's where your energy flows
 </blockquote>
 
+<br> <br/>
+	
 #### Personal favorite reads: (bookworm here)
 
 -   _The Daily Stoic_ by Ryan Holiday.
